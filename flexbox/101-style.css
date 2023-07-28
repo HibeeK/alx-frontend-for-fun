@@ -15,11 +15,11 @@
   width: 5rem;
   height: 3rem;
   font-size: 1rem;
-  background-color: rebeccapurple;
+  background-color: rgb(255, 174, 0);
   color: white;
 }
 
-.box5 {
+.box1 {
   background-color: turquoise;
 }
 
@@ -31,7 +31,7 @@
   color: white;
 }
 
-.box4 {
+.box2 {
   background-color: dodgerblue;
 }
 
@@ -39,6 +39,6 @@
   width: 11rem;
   height: 7rem;
   font-size: 4rem;
-  background-color: rgb(255, 174, 0);
+  background-color: rebeccapurple;
   color: white;
 }
